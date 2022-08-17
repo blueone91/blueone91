@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @blueone91
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in mobile developer
+- 🌱 I’m currently learning kotlin
+- 💞️ I’m looking to collaborate on echos proyects similar to amazon alexa
+
+- 📫 How to reach me sebascastrillon91@gmail.com  
 
 <!---
 blueone91/blueone91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
