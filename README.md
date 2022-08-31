@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blueone91
-- 👀 I’m interested in mobile development
+- 👀 I’m interested in mobile and web development
 
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on echos proyects similar to amazon alexa
