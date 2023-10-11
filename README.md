@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @blueone91
-- 👀 I’m interested in mobile and web development
+- 👀I am interested in web and mobile development with an emphasis on cybersecurity
 
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on echos proyects similar to amazon alexa
+- 🌱 I’m currently learning Cybersecurity Fundamentals
+- 💞️ I’m looking to collaborate on -o-
 
 - 📫 How to reach me sebascastrillon91@gmail.com  
 
-<!---
-blueone91/blueone91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
